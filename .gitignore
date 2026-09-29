@@ -1,0 +1,6 @@
+ai-hub-env/
+__pycache__/
+*.onnx
+*.data
+faydem_sample_db/
+.env
