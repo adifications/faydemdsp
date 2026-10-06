@@ -51,7 +51,7 @@ Physical device profiling on the Qualcomm AI Hub Workbench confirms the followin
 ## Local Installation & Quickstart
 
 ### Prerequisites
-* Python 3.10+
+* Python 3.10
 * Virtual Environment (`venv` or `conda`)
 
 ### Setup Instructions
