@@ -1,6 +1,6 @@
 # Faydem DSP : Hybrid NPU Semantic Sample Indexer
 **Snapdragon® AI Lab Build & Present Challenge Submission**  
-*Author: A Aditya Nair*
+*Made by: A Aditya Nair*
 
 ---
 
